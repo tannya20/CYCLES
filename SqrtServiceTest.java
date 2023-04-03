@@ -9,5 +9,5 @@ public class SqrtServiceTest {
                 money = money - expenses;
             } else {
                 money = money + income;
-    }
-}
+            }
+        }

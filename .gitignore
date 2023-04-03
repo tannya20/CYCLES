@@ -1,3 +1,4 @@
 *.idea
-*terget
+idea/
+terget/
 *.iml
